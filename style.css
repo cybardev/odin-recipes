@@ -20,3 +20,7 @@ main {
 footer {
     font-size: 0.75em;
 }
+
+ul {
+    list-style: none;
+}

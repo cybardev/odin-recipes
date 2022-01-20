@@ -15,3 +15,11 @@ body {
 main {
     text-align: center;
 }
+
+ul {
+    text-align: left;
+}
+
+ol {
+    text-align: justify;
+}
